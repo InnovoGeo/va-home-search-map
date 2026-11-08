@@ -73410,10 +73410,865 @@
         "zip": "24324"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.767592,
+          37.574385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 3.98,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "2715 Creek Edge",
+        "basement": 0,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/2715-Creek-Edge_Powhatan_VA_23139_M51994-85358",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 1,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Two primary bedrooms, including first-floor primary with full bath",
+          "Detached garage with finished climate-controlled workshop/studio; not a proven ADU",
+          "Fenced yard and barn/stable; horses permitted per past MLS",
+          "Creek at rear corner—not established navigable waterfront or private dock"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 588250,
+        "historical_sale_date": "2021-09-20",
+        "id": "offmarket-2715-creek-edge-23139",
+        "in_default": 0,
+        "latitude": 37.574385,
+        "longitude": -77.767592,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 3,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/creek_next.json. beds=5;full=4;half=0;lot_sqft=173369;sqft=3216;best estimate=686200;other observed models=[686200, 600244, 695000];coordinates={'lat': 37.574385, 'lon': -77.767592};status=sold;last sale=2021-09-20 $588250. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/2715-Creek-Edge_Powhatan_VA_23139_M51994-85358"
+          },
+          {
+            "checked_on": "2026-11-08",
+            "notes": "WebFetch body read: 5 beds, 4 FULL baths, 3.98 acres, 3,216 sqft; 1978. Not for sale by REMAX alone is NOT general off-market proof. Shell fetch later returned 403; no retry/bypass.",
+            "purpose": "Corroborating physical facts",
+            "url": "https://www.remax.com/va/powhatan/home-details/2715-creek-edge-powhatan-va-23139/7305416506862991216"
+          }
+        ],
+        "sqft": 3216,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/2715-Creek-Edge_Powhatan_VA_23139_M51994-85358",
+        "value_amount": 686200,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          686200,
+          600244,
+          695000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 1978,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.874779,
+          36.664775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 16.29,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "28083 Fairhaven Rd",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Abingdon",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/28083-Fairhaven-Rd_Abingdon_VA_24211_M68984-12194",
+        "county": "Washington",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Main-level primary plus upstairs fifth bedroom and full bathroom",
+          "Partially fenced acreage with barn/equipment shed",
+          "Attached two-car garage with workshop",
+          "Partial unfinished basement, not finished lower living quarters; no direct waterfront established"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 759000,
+        "historical_sale_date": "2021-11-12",
+        "id": "offmarket-28083-fairhaven-24211",
+        "in_default": 0,
+        "latitude": 36.664775,
+        "longitude": -81.874779,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 4,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/fairhaven_next.json. beds=5;full=4;half=0;lot_sqft=709592;sqft=6511;best estimate=1059000;other observed models=[1059000, 921245, 1082000];coordinates={'lat': 36.664775, 'lon': -81.874779};status=sold;last sale=2021-11-12 $759000. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/28083-Fairhaven-Rd_Abingdon_VA_24211_M68984-12194"
+          },
+          {
+            "checked_on": "2026-11-08",
+            "notes": "WebFetch read:Off Market,5 beds,4 FULL baths,16.29 acres,2009,upper bedroom+full bathroom,partial fencing,attached garage with workshop. Not direct lakefront despite lake-site classification.",
+            "purpose": "Archived MLS physical facts and current off-market badge",
+            "url": "https://www.lakehomes.com/virginia/south-holston-lake/28083-fairhaven-road-abingdon-va-24211-lhrmls-00964967"
+          }
+        ],
+        "sqft": 6511,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/28083-Fairhaven-Rd_Abingdon_VA_24211_M68984-12194",
+        "value_amount": 1059000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          1059000,
+          921245,
+          1082000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2009,
+        "zip": "24211"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.908722,
+          37.603226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.795,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "3768 Tilmans Farm Dr",
+        "basement": 0,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3768-Tilmans-Farm-Dr_Powhatan_VA_23139_M51657-41369",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "First-floor bedroom/full bathroom suited to guests or multigenerational use",
+          "Four upstairs bedrooms including primary; bonus upper loft",
+          "Attached garage per MLS details; no ADU or second kitchen established"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 653000,
+        "historical_sale_date": "2021-07-29",
+        "id": "offmarket-3768-tilmans-farm-23139",
+        "in_default": 0,
+        "latitude": 37.603226,
+        "longitude": -77.908722,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 5,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/tilmans3768_next.json. beds=5;full=4;half=1;lot_sqft=121750;sqft=3835;best estimate=952600;other observed models=[952600, 976745, 939000];coordinates={'lat': 37.603226, 'lon': -77.908722};status=sold;last sale=2021-07-29 $653000. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3768-Tilmans-Farm-Dr_Powhatan_VA_23139_M51657-41369"
+          }
+        ],
+        "sqft": 3835,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3768-Tilmans-Farm-Dr_Powhatan_VA_23139_M51657-41369",
+        "value_amount": 952600,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          952600,
+          976745,
+          939000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2016,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.896735,
+          37.619281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.359,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "3635 Aston Trl",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 6,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
+          "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3635-Aston-Trl_Powhatan_VA_23139_M68592-42141",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Main-level primary plus two additional main-level bedrooms",
+          "Finished walk-out lower level with additional living quarters and full bath per past MLS",
+          "Upper bedroom/full bath; attached two-car garage",
+          "Second installed kitchen and separate legal apartment not established"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 810000,
+        "historical_sale_date": "2026-08-14",
+        "id": "offmarket-3635-aston-23139",
+        "in_default": 0,
+        "latitude": 37.619281,
+        "longitude": -77.896735,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 6,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/aston_next.json. beds=6;full=4;half=0;lot_sqft=102758;sqft=5145;best estimate=816055;other observed models=[816055, 804000, 817500];coordinates={'lat': 37.619281, 'lon': -77.896735};status=sold;last sale=2026-08-14 $810000. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3635-Aston-Trl_Powhatan_VA_23139_M68592-42141"
+          }
+        ],
+        "sqft": 5145,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3635-Aston-Trl_Powhatan_VA_23139_M68592-42141",
+        "value_amount": 816055,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          816055,
+          804000,
+          817500
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 1,
+        "waterfront": 0,
+        "year_built": 2017,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.915211,
+          37.581944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.801,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "2925 Mill Mount Pkwy",
+        "basement": 0,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
+          "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/2925-Mill-Mount-Pkwy_Powhatan_VA_23139_M57324-13069",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Primary suites on first and second floors",
+          "Community lake/recreational access; NOT established direct frontage/private dock",
+          "Finished/heated attached three-car garage area; no separate ADU established",
+          "4,321 finished sqft; 5,652 under roof is NOT living area"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 935000,
+        "historical_sale_date": "2026-06-01",
+        "id": "offmarket-2925-mill-mount-23139",
+        "in_default": 0,
+        "latitude": 37.581944,
+        "longitude": -77.915211,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 7,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/millmount_next.json. beds=5;full=4;half=1;lot_sqft=122012;sqft=4321;best estimate=928000;other observed models=[928000, 938300, 926573];coordinates={'lat': 37.581944, 'lon': -77.915211};status=sold;last sale=2026-06-01 $935000. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/2925-Mill-Mount-Pkwy_Powhatan_VA_23139_M57324-13069"
+          }
+        ],
+        "sqft": 4321,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/2925-Mill-Mount-Pkwy_Powhatan_VA_23139_M57324-13069",
+        "value_amount": 928000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          928000,
+          938300,
+          926573
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2006,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.883851,
+          37.622295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 3.054,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "3613 Archers Rdg",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
+          "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3613-Archers-Rdg_Powhatan_VA_23139_M63027-92776",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "First-floor bedroom and full bathroom; primary suite upstairs",
+          "Full walk-out UNFINISHED basement with plumbing rough-in—not a finished lower dwelling",
+          "Fenced backyard and attached three-car garage"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 850000,
+        "historical_sale_date": "2026-09-22",
+        "id": "offmarket-3613-archers-rdg-23139",
+        "in_default": 0,
+        "latitude": 37.622295,
+        "longitude": -77.883851,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 8,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/archers_next.json. beds=5;full=4;half=0;lot_sqft=133032;sqft=3894;best estimate=848500;other observed models=[848500, 863324, 783000];coordinates={'lat': 37.622295, 'lon': -77.883851};status=sold;last sale=2026-09-22 $850000. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3613-Archers-Rdg_Powhatan_VA_23139_M63027-92776"
+          }
+        ],
+        "sqft": 3894,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3613-Archers-Rdg_Powhatan_VA_23139_M63027-92776",
+        "value_amount": 848500,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          848500,
+          863324,
+          783000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 1,
+        "waterfront": 0,
+        "year_built": 2011,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.910224,
+          37.60168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 3.304,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "3765 Tilmans Farm Dr",
+        "basement": 0,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
+          "Pond access is shared/community context. All bedrooms upstairs; no verified first-floor bedroom or lower apartment."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3765-Tilmans-Farm-Dr_Powhatan_VA_23139_M59430-09208",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Two upstairs primary-type suites per historical room table; all five bedrooms upstairs",
+          "Direct access to a community pond—not established private waterfront or private dock",
+          "Attached three-car garage; crawlspace not a living basement"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 920500,
+        "historical_sale_date": "2026-05-18",
+        "id": "offmarket-3765-tilmans-farm-23139",
+        "in_default": 0,
+        "latitude": 37.60168,
+        "longitude": -77.910224,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 9,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/tilmans_next.json. beds=5;full=4;half=1;lot_sqft=143922;sqft=5334;best estimate=946100;other observed models=[946100, 926000, 952692];coordinates={'lat': 37.60168, 'lon': -77.910224};status=sold;last sale=2026-05-18 $920500. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3765-Tilmans-Farm-Dr_Powhatan_VA_23139_M59430-09208"
+          },
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Fetched 200; sold $920,500; direct access to community pond,5 bedrooms,4 baths,3 acres. Detailed full/half split and exact acres from primary Homefinder.",
+            "purpose": "Broker sold archive and historical features",
+            "url": "https://phrehomes.com/properties/3765-tilmans-farm-dr-powhatan-va-us-23139-2603912"
+          }
+        ],
+        "sqft": 5334,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3765-Tilmans-Farm-Dr_Powhatan_VA_23139_M59430-09208",
+        "value_amount": 946100,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          946100,
+          926000,
+          952692
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2007,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.630195,
+          37.276675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.415,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "15531 Chesdin Landing Ct",
+        "basement": 1,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Chesterfield",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/15531-Chesdin-Landing-Ct_Chesterfield_VA_23838_M58680-31202",
+        "county": "Chesterfield",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Main-level primary; finished walk-out basement and media room",
+          "Attached three-car garage",
+          "Lake Chesdin community water access; no direct frontage/private dock established"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 625000,
+        "historical_sale_date": "2019-04-26",
+        "id": "offmarket-15531-chesdin-landing-23838",
+        "in_default": 0,
+        "latitude": 37.276675,
+        "longitude": -77.630195,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 10,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/chesdinct_next.json. beds=5;full=4;half=1;lot_sqft=105197;sqft=6169;best estimate=1110900;other observed models=[1110900, 974160, 1150000];coordinates={'lat': 37.276675, 'lon': -77.630195};status=sold;last sale=2019-04-26 $625000. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/15531-Chesdin-Landing-Ct_Chesterfield_VA_23838_M58680-31202"
+          },
+          {
+            "checked_on": "2026-11-08",
+            "notes": "WebFetch read: Off Market, 5 beds,4 full+1 half,2.415 acres,walk-out basement,attached garage. Waterfront COMMUNITY is not direct frontage. Shell returned 403; no bypass.",
+            "purpose": "Archived MLS features and current off-market badge",
+            "url": "https://www.lakehomes.com/virginia/lake-chesdin/15531-chesdin-landing-ct-chesterfield-va-23838-lhrmls-00429523"
+          }
+        ],
+        "sqft": 6169,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/15531-Chesdin-Landing-Ct_Chesterfield_VA_23838_M58680-31202",
+        "value_amount": 1110900,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          1110900,
+          974160,
+          1150000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 1,
+        "waterfront": 0,
+        "year_built": 2006,
+        "zip": "23838"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.466488,
+          37.500698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 5.0,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "10518 Piankatank Dr",
+        "basement": 1,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "No historical sale date displayed; duration off market is not established. Garage attachment and preferred multigen features unverified."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Gloucester",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/10518-Piankatank-Dr_Gloucester_VA_23061_M68669-25896",
+        "county": "Gloucester",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Finished basement per corroborating REMAX public record",
+          "Five-acre site; two-car garage, attachment not established",
+          "Direct waterfront, private dock, ADU and multigen layout not established"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": null,
+        "historical_sale_date": null,
+        "id": "offmarket-10518-piankatank-23061",
+        "in_default": 0,
+        "latitude": 37.500698,
+        "longitude": -76.466488,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 11,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/piankatank_next.json. beds=5;full=4;half=1;lot_sqft=217800;sqft=4100;best estimate=689900;other observed models=[689900, 658898, 755000];coordinates={'lat': 37.500698, 'lon': -76.466488};status=off_market;last sale=None $None. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/10518-Piankatank-Dr_Gloucester_VA_23061_M68669-25896"
+          },
+          {
+            "checked_on": "2026-11-08",
+            "notes": "WebFetch read:5 beds,4 full+1 half,5 acres,4,100 sqft,finished basement,2003. Shell later403; no bypass. No waterfront or multigen layout established.",
+            "purpose": "Corroborating public-record physical facts",
+            "url": "https://www.remax.com/va/gloucester/home-details/10518-piankatank-dr-gloucester-va-23061/12400288275253749697"
+          }
+        ],
+        "sqft": 4100,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status off_market. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/10518-Piankatank-Dr_Gloucester_VA_23061_M68669-25896",
+        "value_amount": 689900,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          689900,
+          658898,
+          755000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2003,
+        "zip": "23061"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.888419,
+          37.624451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 6.119,
+        "added_to_pilot_on": "2026-11-08",
+        "address": "3629 Walkers Crk",
+        "basement": 0,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 8, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
+          "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed.",
+          "No preferred waterfront, dock or multigenerational layout documented; retained as an otherwise-qualified physical/budget match, not represented as ideal."
+        ],
+        "checked_on": "2026-11-08",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3629-Walkers-Crk_Powhatan_VA_23139_M90474-44100",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Two-car garage; attachment not established",
+          "6.119-acre property meets physical must-haves; multigen layout and waterfront not established"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 555694,
+        "historical_sale_date": "2020-10-01",
+        "id": "offmarket-3629-walkers-crk-23139",
+        "in_default": 0,
+        "latitude": 37.624451,
+        "longitude": -77.888419,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "rank": 12,
+        "sources": [
+          {
+            "checked_on": "2026-11-08",
+            "notes": "Saved HTML and __NEXT_DATA__ at /workspace/offmarket-expanded-20261108/walkers_next.json. beds=5;full=4;half=0;lot_sqft=266544;sqft=3686;best estimate=849827;other observed models=[849827, 840500, 862000];coordinates={'lat': 37.624451, 'lon': -77.888419};status=sold;last sale=2020-10-01 $555694. No valuation model date supplied.",
+            "purpose": "PRIMARY exact property: current status, full/half baths, physical facts, estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3629-Walkers-Crk_Powhatan_VA_23139_M90474-44100"
+          }
+        ],
+        "sqft": 3686,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3629-Walkers-Crk_Powhatan_VA_23139_M90474-44100",
+        "value_amount": 849827,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          849827,
+          840500,
+          862000
+        ],
+        "value_observed_on": "2026-11-08",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2020,
+        "zip": "23139"
+      },
+      "type": "Feature"
     }
   ],
-  "generated_at": "2026-11-08T18:21:40-05:00",
-  "generated_label": "Nov 8, 2026, 6:21 PM ET",
+  "generated_at": "2026-11-08T18:39:13-05:00",
+  "generated_label": "Nov 8, 2026, 6:39 PM ET",
   "name": "InnovoGeo home search — VA",
   "type": "FeatureCollection"
 }
