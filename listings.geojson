@@ -2031,18 +2031,18 @@
     {
       "geometry": {
         "coordinates": [
-          -76.52444507452383,
-          36.812852503949124
+          -76.230676,
+          36.678987
         ],
         "type": "Point"
       },
       "properties": {
         "acres": null,
-        "address": "3533 Sleepy Hole Road",
+        "address": "1272 Kegman Road",
         "basement": 0,
         "baths": 4,
         "beds": 5,
-        "city": "Suffolk",
+        "city": "Chesapeake",
         "county": null,
         "detached_adu": 0,
         "detached_garage": 0,
@@ -2053,17 +2053,17 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://nh.rdcpix.com/a5565616f481d3a6bcf803a99c54cc90e-f3968732907s.jpg",
+        "photo_url": "https://nh.rdcpix.com/26634c28c1d2eac9637592235422afeae-f3968732907s.jpg",
         "pier_or_dock": 0,
-        "price": 699990,
+        "price": 829990,
         "property_type": "single_family",
         "sqft": 3691,
         "state": "VA",
         "status": "active",
-        "url": "https://www.realtor.com/realestateandhomes-detail/Roanoke_The-Estates-at-Nansemond-River_3533-Sleepy-Hole-Road_Suffolk_VA_23435_P417001070404",
+        "url": "https://www.realtor.com/realestateandhomes-detail/Roanoke_Ashburn-Meadows_1272-Kegman-Road_Chesapeake_VA_23322_P417001058204",
         "walkout_basement": 0,
         "waterfront": 0,
-        "zip": "23435"
+        "zip": "23322"
       },
       "type": "Feature"
     },
@@ -2142,6 +2142,45 @@
         "walkout_basement": 0,
         "waterfront": 0,
         "zip": "23430"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.093292,
+          36.628101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": null,
+        "address": "Lot 8 New Bridge Road",
+        "basement": 0,
+        "baths": 5.5,
+        "beds": 6,
+        "city": "Virginia Beach",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 1,
+        "fenced": 0,
+        "first_seen_at": "2026-10-04T18:22:14-04:00",
+        "id": 64,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://nh.rdcpix.com/b234666ac82596d4507d7c488a23f598e-f126489622s.jpg",
+        "pier_or_dock": 0,
+        "price": 837094,
+        "property_type": "single_family",
+        "sqft": 4350,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/Ava-2-Story_Build-on-Your-Lot-Pungo_Lot-8-New-Bridge-Road_Virginia-Beach_VA_23457_P417000979335",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23457"
       },
       "type": "Feature"
     },
@@ -2406,7 +2445,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/c38a46895eecd63202aede049038587cl-m1167011707s.jpg",
         "pier_or_dock": 0,
-        "price": 600000,
+        "price": 590000,
         "property_type": "single_family",
         "sqft": 3087,
         "state": "VA",
@@ -2443,9 +2482,9 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/38c105116d5183e3def75a3037298876l-m1824976690s.jpg",
+        "photo_url": "https://ap.rdcpix.com/38c105116d5183e3def75a3037298876l-m6080185s.jpg",
         "pier_or_dock": 0,
-        "price": 660000,
+        "price": 639000,
         "property_type": "single_family",
         "sqft": 3900,
         "state": "VA",
@@ -3693,7 +3732,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/6606590285b87e1de31bc09ca5f6cecfl-m3745050166s.jpg",
         "pier_or_dock": 0,
-        "price": 949000,
+        "price": 849000,
         "property_type": "single_family",
         "sqft": 7539,
         "state": "VA",
@@ -4221,7 +4260,7 @@
         "type": "Point"
       },
       "properties": {
-        "acres": null,
+        "acres": 0.25,
         "address": "11234 Hazel Run Way",
         "basement": 0,
         "baths": 4.5,
@@ -4455,7 +4494,7 @@
         "type": "Point"
       },
       "properties": {
-        "acres": null,
+        "acres": 0.25,
         "address": "11169 Hazel Run Way",
         "basement": 0,
         "baths": 4,
@@ -22491,7 +22530,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/88a81bc018fd57dd80dbb4f56d8f60f5l-m19008968s.jpg",
         "pier_or_dock": 0,
-        "price": 999990,
+        "price": 965000,
         "property_type": "single_family",
         "sqft": 5044,
         "state": "VA",
@@ -28479,7 +28518,7 @@
         "type": "Point"
       },
       "properties": {
-        "acres": null,
+        "acres": 0.51,
         "address": "14301 Summercreek Ter",
         "basement": 0,
         "baths": 5,
@@ -28495,7 +28534,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://nh.rdcpix.com/a33c0935b9e3ed422f30d22814dbae50l-f2609329104s.jpg",
+        "photo_url": "https://ap.rdcpix.com/f8f8648bcb4ef7fde1192d2ead1cfab7l-m2021996686s.jpg",
         "pier_or_dock": 0,
         "price": 749999,
         "property_type": "single_family",
@@ -28612,7 +28651,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/b042c860176717e01e01404dfe538392l-m2722477245s.jpg",
+        "photo_url": "https://ap.rdcpix.com/b042c860176717e01e01404dfe538392l-m1014425453s.jpg",
         "pier_or_dock": 0,
         "price": 899000,
         "property_type": "single_family",
@@ -36570,7 +36609,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/51830b07f949abba905ecc9f90ec0e2bl-m4128301539s.jpg",
         "pier_or_dock": 0,
-        "price": 419999,
+        "price": 389999,
         "property_type": "single_family",
         "sqft": 2300,
         "state": "VA",
@@ -41913,7 +41952,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/676580553b50602cd11ff27197882633l-m3662880481s.jpg",
         "pier_or_dock": 0,
-        "price": 419999,
+        "price": 389999,
         "property_type": "single_family",
         "sqft": 2300,
         "state": "VA",
@@ -42303,7 +42342,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/ebf9b8599884e6858f2126afcb11ec82l-m2424091847s.jpg",
         "pier_or_dock": 0,
-        "price": 419999,
+        "price": 389999,
         "property_type": "single_family",
         "sqft": 2300,
         "state": "VA",
@@ -42870,7 +42909,7 @@
         "type": "Point"
       },
       "properties": {
-        "acres": 0.28,
+        "acres": 0.25,
         "address": "11169 Hazel Run Way Lot 50",
         "basement": 0,
         "baths": 4,
@@ -44251,9 +44290,9 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/d78fa2ea17375306b30abefa98a2be7bl-m1906862815s.jpg",
+        "photo_url": "https://ap.rdcpix.com/4faa0e02d1c2e676dd8772fc9f21e8c8l-m1906862815s.jpg",
         "pier_or_dock": 0,
-        "price": 1030000,
+        "price": 999999,
         "property_type": "single_family",
         "sqft": 4157,
         "state": "VA",
@@ -47061,7 +47100,7 @@
         "multigenerational": 0,
         "photo_url": "https://photos.zillowstatic.com/fp/bd64fe77aa470ac7754f1998f4fe638c-p_e.jpg",
         "pier_or_dock": 0,
-        "price": 659000,
+        "price": 619000,
         "property_type": "SINGLE_FAMILY",
         "sqft": 3902,
         "state": "VA",
@@ -48699,7 +48738,7 @@
         "multigenerational": 0,
         "photo_url": "https://photos.zillowstatic.com/fp/9e6972e903ec753c701b427187f786c4-p_e.jpg",
         "pier_or_dock": 0,
-        "price": 270000,
+        "price": 280000,
         "property_type": "SINGLE_FAMILY",
         "sqft": 1920,
         "state": "VA",
@@ -50023,9 +50062,9 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://photos.zillowstatic.com/fp/7cc0d7836d02b050d2491f31bf2bd744-p_e.jpg",
+        "photo_url": "https://photos.zillowstatic.com/fp/cf93491c0f03fb2bcbbe9a2d724126a7-p_e.jpg",
         "pier_or_dock": 0,
-        "price": 599900,
+        "price": 575000,
         "property_type": "SINGLE_FAMILY",
         "sqft": 3670,
         "state": "VA",
@@ -50374,7 +50413,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://photos.zillowstatic.com/fp/5a73e614cb5fc78e99b627090c4ec7b2-p_e.jpg",
+        "photo_url": "https://photos.zillowstatic.com/fp/57baf7de2bb29ffe99efbf26192a8229-p_e.jpg",
         "pier_or_dock": 0,
         "price": 679000,
         "property_type": "SINGLE_FAMILY",
@@ -56772,7 +56811,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/f279e6d62626979acca8e3d3baf382eel-m2891090697s.jpg",
         "pier_or_dock": 0,
-        "price": 650000,
+        "price": 635000,
         "property_type": "single_family",
         "sqft": 3687,
         "state": "VA",
@@ -62682,7 +62721,7 @@
         "type": "Point"
       },
       "properties": {
-        "acres": 0.27,
+        "acres": 0.25,
         "address": "11171 Hazel Run Way Lot 64",
         "basement": 0,
         "baths": 4,
@@ -67456,7 +67495,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/561cab3557947f0594b7756140eb48b1l-m3786204723s.jpg",
+        "photo_url": "https://ap.rdcpix.com/561cab3557947f0594b7756140eb48b1l-m3275100493s.jpg",
         "pier_or_dock": 0,
         "price": 1100000,
         "property_type": "single_family",
@@ -69234,7 +69273,7 @@
         "type": "Point"
       },
       "properties": {
-        "acres": 0.33,
+        "acres": 0.25,
         "address": "11140 Hazel Run Way Lot 61",
         "basement": 0,
         "baths": 5.5,
@@ -71607,8 +71646,8 @@
     {
       "geometry": {
         "coordinates": [
-          -77.92210388183594,
-          37.815704345703125
+          -77.92342,
+          37.817513
         ],
         "type": "Point"
       },
@@ -72214,7 +72253,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/611bc01fe3443d3becd376582691ba3fl-m677904392s.jpg",
+        "photo_url": "https://ap.rdcpix.com/611bc01fe3443d3becd376582691ba3fl-m3493474102s.jpg",
         "pier_or_dock": 0,
         "price": 925000,
         "property_type": "single_family",
@@ -72292,7 +72331,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/be0c57e7bd28a4931f7cc4c0e7c6828dl-m3206709905s.jpg",
+        "photo_url": "https://ap.rdcpix.com/be0c57e7bd28a4931f7cc4c0e7c6828dl-m757217154s.jpg",
         "pier_or_dock": 0,
         "price": 900000,
         "property_type": "single_family",
@@ -72699,8 +72738,8 @@
     {
       "geometry": {
         "coordinates": [
-          -78.3393,
-          38.0274
+          -78.37234481,
+          38.004679441
         ],
         "type": "Point"
       },
@@ -72738,8 +72777,8 @@
     {
       "geometry": {
         "coordinates": [
-          -78.3393,
-          38.0274
+          -78.37290271,
+          38.004104574
         ],
         "type": "Point"
       },
@@ -72894,8 +72933,8 @@
     {
       "geometry": {
         "coordinates": [
-          -78.3393,
-          38.0274
+          -78.37285979,
+          38.005017597
         ],
         "type": "Point"
       },
@@ -73696,7 +73735,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/02c095645144a1c234743d95db70cd07l-m658696467s.jpg",
+        "photo_url": "https://ap.rdcpix.com/02c095645144a1c234743d95db70cd07l-m2947976421s.jpg",
         "pier_or_dock": 0,
         "price": 1200000,
         "property_type": "single_family",
@@ -73927,8 +73966,8 @@
         "fenced": 1,
         "first_seen_at": "2026-11-10T06:18:21-05:00",
         "id": 1959,
-        "in_default": 0,
-        "meets_must_haves": 0,
+        "in_default": 1,
+        "meets_must_haves": 1,
         "multigenerational": 0,
         "photo_url": "https://photos.zillowstatic.com/fp/50b0718b2de34114caa3f4fb4c210057-p_e.jpg",
         "pier_or_dock": 0,
@@ -73941,6 +73980,279 @@
         "walkout_basement": 1,
         "waterfront": 1,
         "zip": "24605"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.415227,
+          37.107044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.49,
+        "address": "212 Kinnakeet Run",
+        "basement": 0,
+        "baths": 4.5,
+        "beds": 6,
+        "city": "Yorktown",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 1,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:09-05:00",
+        "id": 1960,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/9e43dc589e1344c0097769a1b206e7c4l-m3335692042s.jpg",
+        "pier_or_dock": 0,
+        "price": 885000,
+        "property_type": "single_family",
+        "sqft": 3766,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/212-Kinnakeet-Run_Yorktown_VA_23693_M66007-38724",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23693"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.419307,
+          38.839935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.1,
+        "address": "5658 Lierman Cir",
+        "basement": 0,
+        "baths": 4.5,
+        "beds": 5,
+        "city": "Centreville",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 1,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:09-05:00",
+        "id": 1961,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/ebdab0336dea6740a2caf8a344a78ac4l-m2652457819s.jpg",
+        "pier_or_dock": 0,
+        "price": 959900,
+        "property_type": "single_family",
+        "sqft": 4865,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/5658-Lierman-Cir_Centreville_VA_20120_M67954-17781",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "20120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.564142,
+          38.760431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.3,
+        "address": "12676 Crabtree Falls Dr",
+        "basement": 0,
+        "baths": 6.5,
+        "beds": 5,
+        "city": "Bristow",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:10-05:00",
+        "id": 1962,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/2275c6247698ebad037b7429f9d092e3l-m1945548870s.jpg",
+        "pier_or_dock": 0,
+        "price": 1025000,
+        "property_type": "single_family",
+        "sqft": 6944,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/12676-Crabtree-Falls-Dr_Bristow_VA_20136_M50052-91189",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "20136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.596864,
+          38.267848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.25,
+        "address": "11104 N Abbie Moore Ct",
+        "basement": 1,
+        "baths": 6,
+        "beds": 5,
+        "city": "Fredericksburg",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:10-05:00",
+        "id": 1963,
+        "in_default": 1,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/f4b5b8bbd442f9ffa4b62828355698b4l-m3091002448s.jpg",
+        "pier_or_dock": 0,
+        "price": 939900,
+        "property_type": "single_family",
+        "sqft": 4596,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/11104-N-Abbie-Moore-Ct_Fredericksburg_VA_22407_M92119-72736",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "22407"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.785934,
+          38.708748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": null,
+        "address": "405 Brodie Ct",
+        "basement": 0,
+        "baths": 4.5,
+        "beds": 5,
+        "city": "Warrenton",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:10-05:00",
+        "id": 1964,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://nh.rdcpix.com/b452160219fd48b8259aa4f34b805761l-f3814362314s.jpg",
+        "pier_or_dock": 0,
+        "price": 824990,
+        "property_type": "single_family",
+        "sqft": 3978,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/405-Brodie-Ct_Warrenton_VA_20186_M93234-53200",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "20186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.5965333,
+          38.2679144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.25,
+        "address": "11104 N Abbie Moore Ct",
+        "basement": 1,
+        "baths": 6,
+        "beds": 5,
+        "city": "Fredericksburg",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:10-05:00",
+        "id": 1965,
+        "in_default": 1,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": 939900,
+        "property_type": "Single Family Residential",
+        "sqft": 4596,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.redfin.com/VA/Fredericksburg/11104-N-Abbie-Moore-Ct-22407/home/179937405",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "22407"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.59674,
+          38.267784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.25,
+        "address": "11104 N Abbie Moore Ct",
+        "basement": 1,
+        "baths": null,
+        "beds": 5,
+        "city": "Fredericksburg",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-11T06:19:10-05:00",
+        "id": 1966,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://photos.zillowstatic.com/fp/af6015137ec1d270d7121658395071e1-p_e.jpg",
+        "pier_or_dock": 0,
+        "price": 939900,
+        "property_type": "SINGLE_FAMILY",
+        "sqft": 4596,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.zillow.com/homedetails/11104-N-Abbie-Moore-Ct-Fredericksburg-VA-22407/339472543_zpid/",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "22407"
       },
       "type": "Feature"
     },
@@ -75598,10 +75910,465 @@
         "zip": "23124"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.897202,
+          37.357138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 3.73,
+        "added_to_pilot_on": "2026-11-11",
+        "address": "21644 Old Neck Rd",
+        "basement": 0,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 11, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, on-site inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2020-08-17 for $622,750 is shown separately and is not a current value.",
+          "Past MLS narrative says the lot is sub-dividable; record shows one 3.73-acre parcel (45-4-2), not independently surveyed.",
+          "The exact page shows a later list date (2021-02-13) after the 2020-08-17 sale; outcome of that listing is not shown, so it is not labeled expired or withdrawn."
+        ],
+        "checked_on": "2026-11-11",
+        "city": "Charles City",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/21644-Old-Neck-Rd_Charles-City_VA_23030_M54974-14036",
+        "county": "Charles City",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Chickahominy River frontage on 3.73 acres; deep navigable water (MLW 2-4 ft) with private pier and boat lift per past MLS narrative",
+          "Primary plus 4 additional bedrooms, 4 full baths; upper and lower decks along the water side",
+          "Attached garage; above-ground pool and hot tub"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 622750,
+        "historical_sale_date": "2020-08-17",
+        "id": "offmarket-21644-old-23030",
+        "in_default": 0,
+        "latitude": 37.357138,
+        "longitude": -76.897202,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 1,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261111 (status_*.json / hf_next/). beds=5;full=4;half=None;lot_sqft=162479;best estimate=883300;models=[883300, 971787, 849000];coords=(37.357138,-76.897202);last sale 2020-08-17 $622750",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/21644-Old-Neck-Rd_Charles-City_VA_23030_M54974-14036"
+          },
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac)",
+            "url": "https://www.realtor.com/realestateandhomes-search/Charles-City-County_VA/show-recently-sold/beds-5/baths-4/lot-2-acres/type-single-family-home"
+          }
+        ],
+        "sqft": 3900,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-11 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-11 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/21644-Old-Neck-Rd_Charles-City_VA_23030_M54974-14036",
+        "value_amount": 883300,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          883300,
+          971787,
+          849000
+        ],
+        "value_observed_on": "2026-11-11",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 1994,
+        "zip": "23030"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.653312,
+          37.461742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 8.78,
+        "added_to_pilot_on": "2026-11-11",
+        "address": "9001 Halls Creek Rd",
+        "basement": 1,
+        "baths": 6.5,
+        "baths_full": 6,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 11, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, on-site inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2020-08-03 for $498,400 is shown separately and is not a current value.",
+          "Living-area figures differ (4,300 vs 2,601 sf) between record fields.",
+          "The RV-site bathroom is described separately from the house; house bath count taken from the record (5 full + 1 half).",
+          "The exact page shows a later list date (2021-01-22) after the 2020-08-03 sale; outcome not shown and not labeled expired/withdrawn."
+        ],
+        "checked_on": "2026-11-11",
+        "city": "Gloucester",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/9001-Halls-Creek-Rd_Gloucester_VA_23061_M68725-53054",
+        "county": "Gloucester",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "About 1,200 ft of deep-water frontage on Halls Creek with dock and boat slips per past MLS narrative",
+          "5 bedrooms, 5 full + 1 half baths; large finished walk-out basement; backup generator",
+          "8.78 acres; two RV sites with power/water/sewer and a bathroom"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 498400,
+        "historical_sale_date": "2020-08-03",
+        "id": "offmarket-9001-halls-23061",
+        "in_default": 0,
+        "latitude": 37.461742,
+        "longitude": -76.653312,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 1,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261111 (status_*.json / hf_next/). beds=5;full=6;half=1;lot_sqft=382457;best estimate=710500;models=[710500, 726000, 690700];coords=(37.461742,-76.653312);last sale 2020-08-03 $498400",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/9001-Halls-Creek-Rd_Gloucester_VA_23061_M68725-53054"
+          },
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac)",
+            "url": "https://www.realtor.com/realestateandhomes-search/Gloucester-County_VA/show-recently-sold/beds-5/baths-4/lot-2-acres/type-single-family-home"
+          }
+        ],
+        "sqft": 4300,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-11 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-11 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/9001-Halls-Creek-Rd_Gloucester_VA_23061_M68725-53054",
+        "value_amount": 710500,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          710500,
+          726000,
+          690700
+        ],
+        "value_observed_on": "2026-11-11",
+        "walkout_basement": 1,
+        "waterfront": 1,
+        "year_built": 2005,
+        "zip": "23061"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.734215,
+          37.057681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 10.52,
+        "added_to_pilot_on": "2026-11-11",
+        "address": "1510 Crafts Church Rd",
+        "basement": 0,
+        "baths": 5.0,
+        "baths_full": 5,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 11, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, on-site inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2024-07-01 for $1,025,000 is shown separately and is not a current value.",
+          "Bedroom count used is the county figure of 5, not the 7 decorated rooms. Septic permit was still being checked at the time of the past sale; septic capacity is not verified.",
+          "Reference value and the 2024 sale cover both lots; the alternative model ($1,114,000) and 2024-07-01 sale ($1,025,000) are close to the $1.2M ceiling. Recent purchase.",
+          "Zoning A1; sold as-is with furnishings in 2024."
+        ],
+        "checked_on": "2026-11-11",
+        "city": "Glade Hill",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/1510-Crafts-Church-Rd_Glade-Hill_VA_24092_M58260-02524",
+        "county": "Franklin",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [
+          "Exact page headline shows 7 bedrooms; county lists 5. Conservative 5 used."
+        ],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Smith Mountain Lake main-channel views with about 1,056 ft of waterfront; dock with boat hoist, floater, A-roof and storage per past MLS record",
+          "Kitchens on both levels; main level 5 bedrooms/3 baths, upper level 2 bedrooms/2 baths (decorated as 7 bedrooms; county lists 5)",
+          "House on a 5.49-acre lot plus a separate buildable 5.01-acre lot (10.52 ac total)"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 1025000,
+        "historical_sale_date": "2024-07-01",
+        "id": "offmarket-1510-crafts-24092",
+        "in_default": 0,
+        "latitude": 37.057681,
+        "longitude": -79.734215,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 1,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261111 (status_*.json / hf_next/). beds=7;full=5;half=None;lot_sqft=458251;best estimate=1066658;models=[1066658, 907300, 1114000];coords=(37.057681,-79.734215);last sale 2024-07-01 $1025000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/1510-Crafts-Church-Rd_Glade-Hill_VA_24092_M58260-02524"
+          },
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac)",
+            "url": "https://www.realtor.com/realestateandhomes-search/Franklin-County_VA/show-recently-sold/beds-5/baths-4/lot-2-acres/type-single-family-home"
+          }
+        ],
+        "sqft": 3456,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-11 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-11 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/1510-Crafts-Church-Rd_Glade-Hill_VA_24092_M58260-02524",
+        "value_amount": 1066658,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          1066658,
+          907300,
+          1114000
+        ],
+        "value_observed_on": "2026-11-11",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 1967,
+        "zip": "24092"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.483686,
+          37.525931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 3.87,
+        "added_to_pilot_on": "2026-11-11",
+        "address": "11451 Coveside Pt",
+        "basement": 0,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 11, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, on-site inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2020-12-01 for $485,000 is shown separately and is not a current value.",
+          "Water access is a community amenity, not private waterfront.",
+          "Historical sale 2020-12-01 for $485,000 is old; current condition unknown.",
+          "HOA/association restrictions apply."
+        ],
+        "checked_on": "2026-11-11",
+        "city": "Gloucester",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/11451-Coveside-Pt_Gloucester_VA_23061_M69565-87754",
+        "county": "Gloucester",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "2008 custom colonial on 3.87 cul-de-sac acres in Riverwatch, a Piankatank River waterfront community",
+          "5 bedrooms (first-floor guest room) and 4 full baths; sunroom; home office",
+          "COMMUNITY pier, sandy beach, boat ramp, boat storage, clubhouse and pool (no private dock or private frontage established)"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 485000,
+        "historical_sale_date": "2020-12-01",
+        "id": "offmarket-11451-coveside-23061",
+        "in_default": 0,
+        "latitude": 37.525931,
+        "longitude": -76.483686,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261111 (status_*.json / hf_next/). beds=5;full=4;half=None;lot_sqft=168577;best estimate=725000;models=[725000, 708946, 768000];coords=(37.525931,-76.483686);last sale 2020-12-01 $485000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/11451-Coveside-Pt_Gloucester_VA_23061_M69565-87754"
+          },
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac)",
+            "url": "https://www.realtor.com/realestateandhomes-search/Gloucester-County_VA/show-recently-sold/beds-5/baths-4/lot-2-acres/type-single-family-home"
+          }
+        ],
+        "sqft": 3464,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-11 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-11 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/11451-Coveside-Pt_Gloucester_VA_23061_M69565-87754",
+        "value_amount": 725000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          725000,
+          708946,
+          768000
+        ],
+        "value_observed_on": "2026-11-11",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2008,
+        "zip": "23061"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.906743,
+          37.605877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.377,
+        "added_to_pilot_on": "2026-11-11",
+        "address": "3355 Riverly Dr",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 11, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, on-site inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2019-09-25 for $690,000 is shown separately and is not a current value.",
+          "Bedroom fields differ (headline 7 vs detail list 5); 5 used, which still meets the minimum.",
+          "Reference values ($1,096,731-$1,103,000) are close to the $1.2M ceiling.",
+          "The page shows a 2024-03-18 list date after the 2019 sale; outcome not shown and not labeled expired/withdrawn. Shared/community well."
+        ],
+        "checked_on": "2026-11-11",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3355-Riverly-Dr_Powhatan_VA_23139_M51198-85305",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [
+          "Exact page headline shows 7 bedrooms; detail bedroom field lists 5. Conservative 5 used."
+        ],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Custom farmhouse in Tilmans Farm built for multigenerational living per past MLS narrative",
+          "Walk-out basement in-law apartment with two large rooms, full bath, laundry, wet-bar dining area, living room and private entrance",
+          "In-ground pool and spa; insulated 3-car garage; neighborhood stocked ponds and lake (community, not private waterfront)"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 690000,
+        "historical_sale_date": "2019-09-25",
+        "id": "offmarket-3355-riverly-23139",
+        "in_default": 0,
+        "latitude": 37.605877,
+        "longitude": -77.906743,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261111 (status_*.json / hf_next/). beds=7;full=4;half=None;lot_sqft=103542;best estimate=1098700;models=[1098700, 1096731, 1103000];coords=(37.605877,-77.906743);last sale 2019-09-25 $690000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3355-Riverly-Dr_Powhatan_VA_23139_M51198-85305"
+          },
+          {
+            "checked_on": "2026-11-11",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac)",
+            "url": "https://www.realtor.com/realestateandhomes-search/Powhatan-County_VA/show-recently-sold/beds-5/baths-4/lot-2-acres/type-single-family-home"
+          }
+        ],
+        "sqft": 5712,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-11 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-11 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3355-Riverly-Dr_Powhatan_VA_23139_M51198-85305",
+        "value_amount": 1098700,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          1098700,
+          1096731,
+          1103000
+        ],
+        "value_observed_on": "2026-11-11",
+        "walkout_basement": 1,
+        "waterfront": 0,
+        "year_built": 2015,
+        "zip": "23139"
+      },
+      "type": "Feature"
     }
   ],
-  "generated_at": "2026-11-10T06:33:39-05:00",
-  "generated_label": "Nov 10, 2026, 6:33 AM ET",
+  "generated_at": "2026-11-11T06:32:18-05:00",
+  "generated_label": "Nov 11, 2026, 6:32 AM ET",
   "name": "InnovoGeo home search — VA",
   "type": "FeatureCollection"
 }
