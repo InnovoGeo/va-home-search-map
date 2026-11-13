@@ -766,7 +766,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/b672dd511e7c84f1ca6b37a274cde244l-m2927611189s.jpg",
+        "photo_url": "https://ap.rdcpix.com/b672dd511e7c84f1ca6b37a274cde244l-m2371620549s.jpg",
         "pier_or_dock": 0,
         "price": 635000,
         "property_type": "single_family",
@@ -4161,7 +4161,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/05e23a4f290fe7686be7af30c3234c55l-m3055499188s.jpg",
         "pier_or_dock": 0,
-        "price": 685000,
+        "price": 695000,
         "property_type": "single_family",
         "sqft": 4844,
         "state": "VA",
@@ -14221,7 +14221,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/8d3c1226d6780bffdf1eb628635f8285l-m2567275990s.jpg",
+        "photo_url": "https://ap.rdcpix.com/8d3c1226d6780bffdf1eb628635f8285l-m3923877976s.jpg",
         "pier_or_dock": 0,
         "price": 1025000,
         "property_type": "single_family",
@@ -20383,9 +20383,9 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/b54dba32ffe3cd681ecfc5c8a76b7e08l-m3625367839s.jpg",
+        "photo_url": "https://ap.rdcpix.com/b54dba32ffe3cd681ecfc5c8a76b7e08l-m1466370685s.jpg",
         "pier_or_dock": 0,
-        "price": 799950,
+        "price": 775000,
         "property_type": "single_family",
         "sqft": 5128,
         "state": "VA",
@@ -20814,7 +20814,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/a50ac38068f25a313c8a7e26f68d331cl-m261133137s.jpg",
         "pier_or_dock": 0,
-        "price": 549500,
+        "price": 549475,
         "property_type": "single_family",
         "sqft": 4005,
         "state": "VA",
@@ -20851,7 +20851,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/afc7fbe08d514073de5a446628eacb5dl-m1505021321s.jpg",
+        "photo_url": "https://ap.rdcpix.com/afc7fbe08d514073de5a446628eacb5dl-m2189717551s.jpg",
         "pier_or_dock": 0,
         "price": 699000,
         "property_type": "single_family",
@@ -21007,9 +21007,9 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/f5d7fd64ad0c90333e054b5227842bfdl-m693319207s.jpg",
+        "photo_url": "https://ap.rdcpix.com/d43bcccfe402c5e91c25ffe6d6854110l-m4068786754s.jpg",
         "pier_or_dock": 0,
-        "price": 1100000,
+        "price": 1050000,
         "property_type": "single_family",
         "sqft": 4102,
         "state": "VA",
@@ -21709,7 +21709,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/959c9478e89f9780b47a5781319aba2dl-m3718879213s.jpg",
+        "photo_url": "https://ap.rdcpix.com/959c9478e89f9780b47a5781319aba2dl-m4078457314s.jpg",
         "pier_or_dock": 0,
         "price": 1139000,
         "property_type": "single_family",
@@ -22725,7 +22725,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/1cf6436415ac9e9f81aba1dc6b0baf97l-m1152316919s.jpg",
         "pier_or_dock": 0,
-        "price": 995000,
+        "price": 975000,
         "property_type": "single_family",
         "sqft": 5070,
         "state": "VA",
@@ -24090,7 +24090,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/cb058c937c3f681724e6d2d4cedc6ef0l-m2212089645s.jpg",
         "pier_or_dock": 0,
-        "price": 932000,
+        "price": 931000,
         "property_type": "single_family",
         "sqft": 5454,
         "state": "VA",
@@ -31929,7 +31929,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/60d81a22249ebb35bba4d8ef9073ef07l-m3432873192s.jpg",
         "pier_or_dock": 0,
-        "price": 824900,
+        "price": 819900,
         "property_type": "single_family",
         "sqft": 4596,
         "state": "VA",
@@ -32289,6 +32289,45 @@
         "walkout_basement": 0,
         "waterfront": 0,
         "zip": "22101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.093292,
+          36.628101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": null,
+        "address": "Lot 8 New Bridge Road",
+        "basement": 0,
+        "baths": 4.5,
+        "beds": 6,
+        "city": "Virginia Beach",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 1,
+        "fenced": 0,
+        "first_seen_at": "2026-10-06T06:15:31-04:00",
+        "id": 854,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://nh.rdcpix.com/00ec66595fc206a82de8b4e49be39a26e-f222737366s.jpg",
+        "pier_or_dock": 0,
+        "price": 986391,
+        "property_type": "single_family",
+        "sqft": 4430,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/Bellview_Build-on-Your-Lot-Pungo_Lot-8-New-Bridge-Road_Virginia-Beach_VA_23457_P417000978466",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23457"
       },
       "type": "Feature"
     },
@@ -33021,7 +33060,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/a3f2cf541c9d04be4347063602f5577bl-m1248158981s.jpg",
         "pier_or_dock": 0,
-        "price": 899900,
+        "price": 890000,
         "property_type": "single_family",
         "sqft": 4621,
         "state": "VA",
@@ -33097,7 +33136,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/a0cf8d946d11028b845e5222d8916584l-m3008640434s.jpg",
+        "photo_url": "https://ap.rdcpix.com/a0cf8d946d11028b845e5222d8916584l-m3858278255s.jpg",
         "pier_or_dock": 0,
         "price": 760000,
         "property_type": "single_family",
@@ -35047,7 +35086,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/21ea8c907e8bfebac9aa06ded0910a88l-m2367673450s.jpg",
+        "photo_url": "https://ap.rdcpix.com/21ea8c907e8bfebac9aa06ded0910a88l-m2882501569s.jpg",
         "pier_or_dock": 0,
         "price": 684900,
         "property_type": "single_family",
@@ -36765,7 +36804,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/e5314157935f7de23c060b4a7b4c8bacl-m1111078647s.jpg",
         "pier_or_dock": 0,
-        "price": 829500,
+        "price": 819000,
         "property_type": "single_family",
         "sqft": 3982,
         "state": "VA",
@@ -47800,7 +47839,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 1,
-        "photo_url": "https://photos.zillowstatic.com/fp/becf917690a42b6d05afaeef4d1f71d0-p_e.jpg",
+        "photo_url": "https://photos.zillowstatic.com/fp/4a8cc712a8b0fc744a859733dde39a55-p_e.jpg",
         "pier_or_dock": 0,
         "price": 739990,
         "property_type": "SINGLE_FAMILY",
@@ -48738,7 +48777,7 @@
         "multigenerational": 0,
         "photo_url": "https://photos.zillowstatic.com/fp/9e6972e903ec753c701b427187f786c4-p_e.jpg",
         "pier_or_dock": 0,
-        "price": 290000,
+        "price": 270000,
         "property_type": "SINGLE_FAMILY",
         "sqft": 1920,
         "state": "VA",
@@ -57004,7 +57043,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/5ec601cc6d5fb3263226ffec1c00a416l-m1691913437s.jpg",
+        "photo_url": "https://ap.rdcpix.com/5ec601cc6d5fb3263226ffec1c00a416l-m2006971976s.jpg",
         "pier_or_dock": 0,
         "price": 1049900,
         "property_type": "single_family",
@@ -60009,7 +60048,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/60194ba5a2cdae6ef70be5edf1fc2dbal-m3613600778s.jpg",
         "pier_or_dock": 0,
-        "price": 870000,
+        "price": 849999,
         "property_type": "single_family",
         "sqft": 3039,
         "state": "VA",
@@ -64650,7 +64689,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/45d11d27fe23517e7054c75f08c9c88el-m3662351745s.jpg",
         "pier_or_dock": 0,
-        "price": 800000,
+        "price": 790000,
         "property_type": "single_family",
         "sqft": 3380,
         "state": "VA",
@@ -67651,7 +67690,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/836c6e31a476081ff04dff9f729a3fdal-m2329309655s.jpg",
+        "photo_url": "https://ap.rdcpix.com/836c6e31a476081ff04dff9f729a3fdal-m2247761811s.jpg",
         "pier_or_dock": 0,
         "price": 1150000,
         "property_type": "single_family",
@@ -67846,7 +67885,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/2db769bf9a8e41340a9e912141d9fe7fl-m4059113155s.jpg",
+        "photo_url": "https://ap.rdcpix.com/2db769bf9a8e41340a9e912141d9fe7fl-m864621525s.jpg",
         "pier_or_dock": 0,
         "price": 650000,
         "property_type": "single_family",
@@ -67965,7 +68004,7 @@
         "multigenerational": 0,
         "photo_url": "https://ap.rdcpix.com/a56a4d76489860c3758f389768c38c4cl-m3870357823s.jpg",
         "pier_or_dock": 0,
-        "price": 720000,
+        "price": 699000,
         "property_type": "single_family",
         "sqft": 3808,
         "state": "VA",
@@ -70186,7 +70225,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/866ac4081dda8f9a4ce7298ccd8d6a0al-m1909318713s.jpg",
+        "photo_url": "https://ap.rdcpix.com/866ac4081dda8f9a4ce7298ccd8d6a0al-m3596351644s.jpg",
         "pier_or_dock": 0,
         "price": 442995,
         "property_type": "single_family",
@@ -71646,8 +71685,8 @@
     {
       "geometry": {
         "coordinates": [
-          -77.92342,
-          37.817513
+          -77.92210388183594,
+          37.815704345703125
         ],
         "type": "Point"
       },
@@ -74008,7 +74047,7 @@
         "in_default": 0,
         "meets_must_haves": 0,
         "multigenerational": 0,
-        "photo_url": "https://ap.rdcpix.com/9e43dc589e1344c0097769a1b206e7c4l-m3335692042s.jpg",
+        "photo_url": "https://ap.rdcpix.com/eb4436d4fcea78e06e301c3a8abd0c7fl-m2106244220s.jpg",
         "pier_or_dock": 0,
         "price": 885000,
         "property_type": "single_family",
@@ -74883,6 +74922,318 @@
     {
       "geometry": {
         "coordinates": [
+          -77.6486,
+          38.777618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.27,
+        "address": "16001 Tryon Way",
+        "basement": 0,
+        "baths": 5.5,
+        "beds": 6,
+        "city": "Gainesville",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:25-05:00",
+        "id": 1983,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/a5d3e87a40ed19b9d0e1ff9603a775a3l-m2297621518s.jpg",
+        "pier_or_dock": 0,
+        "price": 1195000,
+        "property_type": "single_family",
+        "sqft": 5892,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/16001-Tryon-Way_Gainesville_VA_20155_M50190-04199",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "20155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.7111,
+          38.264995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 1.44,
+        "address": "11304 Field Cir",
+        "basement": 0,
+        "baths": 4.5,
+        "beds": 5,
+        "city": "Spotsylvania",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:25-05:00",
+        "id": 1984,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/50784ffc6e9245dea2409c7fa90830afl-m4226776112s.jpg",
+        "pier_or_dock": 0,
+        "price": 1080000,
+        "property_type": "single_family",
+        "sqft": 5257,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/11304-Field-Cir_Spotsylvania_VA_22551_M68026-77119",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "22551"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.987453,
+          37.458106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.41,
+        "address": "3497 Virginia Rail Dr",
+        "basement": 0,
+        "baths": 4.5,
+        "beds": 5,
+        "city": "Providence Forge",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 1,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:25-05:00",
+        "id": 1985,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/d5d4540e18900d5d70a8fd430e5b4d0cl-m1968084434s.jpg",
+        "pier_or_dock": 0,
+        "price": 650000,
+        "property_type": "single_family",
+        "sqft": 3700,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3497-Virginia-Rail-Dr_Providence-Forge_VA_23140_M53152-35974",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.626379,
+          37.692858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.32,
+        "address": "5800 Hardwick Dr",
+        "basement": 0,
+        "baths": 4,
+        "beds": 7,
+        "city": "Glen Allen",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:25-05:00",
+        "id": 1986,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/e439f28835507fdd5f2c9e2f0313232cl-m1992872172s.jpg",
+        "pier_or_dock": 0,
+        "price": 839950,
+        "property_type": "single_family",
+        "sqft": 3566,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/5800-Hardwick-Dr_Glen-Allen_VA_23059_M68570-91204",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23059"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.904404,
+          38.426853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 0.17,
+        "address": "1980 Shoeshine Ave",
+        "basement": 0,
+        "baths": 4,
+        "beds": 6,
+        "city": "Rockingham",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:25-05:00",
+        "id": 1987,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://ap.rdcpix.com/eab84c539bb6128804d72b18f7680025l-m1195842188s.jpg",
+        "pier_or_dock": 0,
+        "price": 485000,
+        "property_type": "single_family",
+        "sqft": 3641,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1980-Shoeshine-Ave_Rockingham_VA_22801_M90195-03603",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "22801"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.8880848,
+          37.7560165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 6.28,
+        "address": "2980 Tranbycroft Way",
+        "basement": 0,
+        "baths": 3.5,
+        "beds": 8,
+        "city": "Sandy Hook",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:26-05:00",
+        "id": 1989,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": 1145000,
+        "property_type": "Single Family Residential",
+        "sqft": 5334,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.redfin.com/VA/Sandy-Hook/2980-Tranbycroft-Way-23153/home/167734735",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.82119,
+          37.477386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2,
+        "address": "5520 Farmers Dr",
+        "basement": 0,
+        "baths": 3.5,
+        "beds": 5,
+        "city": "Barhamsville",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 1,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:26-05:00",
+        "id": 1990,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://photos.zillowstatic.com/fp/13033ec83df0b9e3a0df4e3ba0949660-p_e.jpg",
+        "pier_or_dock": 0,
+        "price": 899950,
+        "property_type": "SINGLE_FAMILY",
+        "sqft": 4100,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.zillow.com/homedetails/5520-Farmers-Dr-Barhamsville-VA-23011/466600237_zpid/",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.8881,
+          37.755775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 6.28,
+        "address": "2980 Tranbycroft Way",
+        "basement": 0,
+        "baths": 3.5,
+        "beds": 8,
+        "city": "Sandy Hook",
+        "county": null,
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "east_of_i95": 0,
+        "fenced": 0,
+        "first_seen_at": "2026-11-13T06:16:26-05:00",
+        "id": 1991,
+        "in_default": 0,
+        "meets_must_haves": 0,
+        "multigenerational": 0,
+        "photo_url": "https://photos.zillowstatic.com/fp/d04facec6f45d83c0294dc3a436cad18-p_e.jpg",
+        "pier_or_dock": 0,
+        "price": 1145000,
+        "property_type": "SINGLE_FAMILY",
+        "sqft": 5334,
+        "state": "VA",
+        "status": "active",
+        "url": "https://www.zillow.com/homedetails/2980-Tranbycroft-Way-Sandy-Hook-VA-23153/79121895_zpid/",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "zip": "23153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -80.723374,
           36.984607
         ],
@@ -75199,7 +75550,7 @@
           "Public syndicated/record evidence is not an on-site inspection, title survey or bedroom/septic permit verification. No owner has been contacted.",
           "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
         ],
-        "checked_on": "2026-11-08",
+        "checked_on": "2026-11-13",
         "city": "Powhatan",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3768-Tilmans-Farm-Dr_Powhatan_VA_23139_M51657-41369",
         "county": "Powhatan",
@@ -75242,6 +75593,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/3768-Tilmans-Farm-Dr_Powhatan_VA_23139_M51657-41369",
         "value_amount": 952600,
         "value_effective_date": null,
@@ -75282,7 +75643,7 @@
           "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
           "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
         ],
-        "checked_on": "2026-11-08",
+        "checked_on": "2026-11-13",
         "city": "Powhatan",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3635-Aston-Trl_Powhatan_VA_23139_M68592-42141",
         "county": "Powhatan",
@@ -75326,6 +75687,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/3635-Aston-Trl_Powhatan_VA_23139_M68592-42141",
         "value_amount": 816055,
         "value_effective_date": null,
@@ -75366,7 +75737,7 @@
           "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
           "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
         ],
-        "checked_on": "2026-11-08",
+        "checked_on": "2026-11-13",
         "city": "Powhatan",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/2925-Mill-Mount-Pkwy_Powhatan_VA_23139_M57324-13069",
         "county": "Powhatan",
@@ -75410,6 +75781,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/2925-Mill-Mount-Pkwy_Powhatan_VA_23139_M57324-13069",
         "value_amount": 928000,
         "value_effective_date": null,
@@ -75450,7 +75831,7 @@
           "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
           "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed."
         ],
-        "checked_on": "2026-11-08",
+        "checked_on": "2026-11-13",
         "city": "Powhatan",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3613-Archers-Rdg_Powhatan_VA_23139_M63027-92776",
         "county": "Powhatan",
@@ -75493,6 +75874,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/3613-Archers-Rdg_Powhatan_VA_23139_M63027-92776",
         "value_amount": 848500,
         "value_effective_date": null,
@@ -75533,7 +75924,7 @@
           "Purchased in 2026; lower-priority outreach prospect than long-held properties. No assumption of willingness to resell.",
           "Pond access is shared/community context. All bedrooms upstairs; no verified first-floor bedroom or lower apartment."
         ],
-        "checked_on": "2026-11-08",
+        "checked_on": "2026-11-13",
         "city": "Powhatan",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3765-Tilmans-Farm-Dr_Powhatan_VA_23139_M59430-09208",
         "county": "Powhatan",
@@ -75582,6 +75973,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Current exact Homefinder property page displays Sold, not an active offering; public offer metadata is SoldOut. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/3765-Tilmans-Farm-Dr_Powhatan_VA_23139_M59430-09208",
         "value_amount": 946100,
         "value_effective_date": null,
@@ -75816,7 +76217,7 @@
           "Separate independent county-assessor verification was not completed; syndication can share an underlying MLS/public-record feed.",
           "No preferred waterfront, dock or multigenerational layout documented; retained as an otherwise-qualified physical/budget match, not represented as ideal."
         ],
-        "checked_on": "2026-11-08",
+        "checked_on": "2026-11-13",
         "city": "Powhatan",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3629-Walkers-Crk_Powhatan_VA_23139_M90474-44100",
         "county": "Powhatan",
@@ -75858,6 +76259,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Current exact Homefinder property page displays Off Market. Embedded property status sold. No active/pending/coming-soon offering in fetched record. Historical sale alone was not used as proof; owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/3629-Walkers-Crk_Powhatan_VA_23139_M90474-44100",
         "value_amount": 849827,
         "value_effective_date": null,
@@ -75998,7 +76409,7 @@
           "Historical sale 2021-12-21 for $650,000 is shown separately and is not a current value.",
           "Narrative mentions additional lots available at time of sale; record lot is 4.11 ac—parcel boundary not independently surveyed."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "Heathsville",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/194-Glenside-Ter_Heathsville_VA_22473_M54761-62206",
         "county": "Northumberland",
@@ -76046,6 +76457,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/194-Glenside-Ter_Heathsville_VA_22473_M54761-62206",
         "value_amount": 855000,
         "value_effective_date": null,
@@ -76087,7 +76508,7 @@
           "Acreage 2.15 ac (narrative says 2 acres)—close to the 2-acre minimum.",
           "Historical sale is old (2017-01-27, $835,000); current condition unknown."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "Montross",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/94-Nomini-Bay-Dr_Montross_VA_22520_M69246-11588",
         "county": "Westmoreland",
@@ -76135,6 +76556,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/94-Nomini-Bay-Dr_Montross_VA_22520_M69246-11588",
         "value_amount": 999507,
         "value_effective_date": null,
@@ -76176,7 +76607,7 @@
           "Automated models range $752,000-$1,166,461; the alternative is close to the $1.2M ceiling.",
           "Acreage 2.31 ac per record."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "Callao",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/161-Yeocomico-Ln_Callao_VA_22435_M67511-35692",
         "county": "Northumberland",
@@ -76223,6 +76654,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/161-Yeocomico-Ln_Callao_VA_22435_M67511-35692",
         "value_amount": 976700,
         "value_effective_date": null,
@@ -76263,7 +76704,7 @@
           "Historical sale 2022-03-11 for $600,000 is shown separately and is not a current value.",
           "Acreage 2.26 ac—close to minimum. Community well per record. HOA applies."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "Heathsville",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/220-Ruddy-Duck-Rd_Heathsville_VA_22473_M57415-20235",
         "county": "Northumberland",
@@ -76311,6 +76752,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/220-Ruddy-Duck-Rd_Heathsville_VA_22473_M57415-20235",
         "value_amount": 762000,
         "value_effective_date": null,
@@ -76352,7 +76803,7 @@
           "Shallow water: narrative says depth suited to small vessels only.",
           "Sold 2022-03-18 as-is for $550,000; current condition unknown."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "Mathews",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/512-River-Estates-Pl_Mathews_VA_23109_M53164-43465",
         "county": "Mathews",
@@ -76400,6 +76851,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/512-River-Estates-Pl_Mathews_VA_23109_M53164-43465",
         "value_amount": 791400,
         "value_effective_date": null,
@@ -76440,7 +76901,7 @@
           "Historical sale 2021-03-26 for $530,500 is shown separately and is not a current value.",
           "Dock is a community amenity, not private. One alternative automated model is much lower ($432,000)."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "Spring Grove",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/19614-Creekside-Dr_Spring-Grove_VA_23881_M68588-79327",
         "county": "Prince George",
@@ -76488,6 +76949,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/19614-Creekside-Dr_Spring-Grove_VA_23881_M68588-79327",
         "value_amount": 741476,
         "value_effective_date": null,
@@ -76529,7 +77000,7 @@
           "Resolves 2026-11-09 unresolved check: exact primary page shows 5 bedrooms, 4 full + 1 half baths. The half bath may be in the pool house; the 4 full baths are in the main house (apartment has rough-ins only).",
           "Automated models $913,000-$1,005,718; no waterfront."
         ],
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-13",
         "city": "New Kent",
         "coordinate_source": "https://homefinder.com/realestateandhomes-detail/9254-Ordinary-Ln_New-Kent_VA_23124_M55638-69605",
         "county": "New Kent",
@@ -76577,6 +77048,16 @@
         "status": "offmarket_pilot",
         "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-10 shows status 'sold' with no list price/active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-10 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
         "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "status_recheck_history": [
+          {
+            "date": "2026-11-13",
+            "hf_status": "sold",
+            "suggest_status": [
+              "recently_sold",
+              "off_market"
+            ]
+          }
+        ],
         "url": "https://homefinder.com/realestateandhomes-detail/9254-Ordinary-Ln_New-Kent_VA_23124_M55638-69605",
         "value_amount": 1003400,
         "value_effective_date": null,
@@ -78043,10 +78524,1558 @@
         "zip": "23139"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.479548,
+          37.03838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 7.72,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "485 Reservoir View Ct",
+        "basement": 0,
+        "baths": 6.0,
+        "baths_full": 5,
+        "baths_half": 2,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2023-05-24 for $800,000 is shown separately and is not a current value.",
+          "The lake is not named in the record; no private dock is documented (only community ramp/docks nearby).",
+          "Historical sale 2023-05-24 for $800,000; models range $840,000 to $913,654."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Pittsville",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/485-Reservoir-View-Ct_Pittsville_VA_24139_M66109-44302",
+        "county": "Pittsylvania",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Lakefront property on 7.72 acres (record water class: Waterfront Property; cove, no-wake area)",
+          "5 bd / 5 full + 2 half on three levels, about 5,800 sf, with central elevator",
+          "Two 2-car garages; screened porch with wet bar; three levels of lakeside decks; community boat ramp and docks nearby"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 800000,
+        "historical_sale_date": "2023-05-24",
+        "id": "offmarket-485-reservoir-24139",
+        "in_default": 0,
+        "latitude": 37.03838,
+        "longitude": -79.479548,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=5;half=2;lot_sqft=336283;best estimate=858500;models=[858500, 840000, 913654];coords=(37.03838,-79.479548);last sale 2023-05-24 $800000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/485-Reservoir-View-Ct_Pittsville_VA_24139_M66109-44302"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Pittsylvania-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/485-Reservoir-View-Ct_Pittsville_VA_24139_M66109-44302"
+          }
+        ],
+        "sqft": 5880,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/485-Reservoir-View-Ct_Pittsville_VA_24139_M66109-44302",
+        "value_amount": 858500,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          858500,
+          840000,
+          913654
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 2009,
+        "zip": "24139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.453806,
+          37.801015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 31.0,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "75 Osage Ln",
+        "basement": 1,
+        "baths": 5.0,
+        "baths_full": 5,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2025-08-15 for $850,000 is shown separately and is not a current value.",
+          "River frontage is recreational; no dock documented.",
+          "Only two automated models ($833,000 and $839,489); historical sale 2025-08-15 for $850,000.",
+          "The page shows a later list date (2026-09-08, $850,000) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn.",
+          "Second kitchen comes from an MLS detail line; whether it forms a separate unit is not established."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Lexington",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/75-Osage-Ln_Lexington_VA_24450_M62009-34774",
+        "county": "Rockbridge",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Long Maury River frontage (fishing, swimming, kayaking) on 31 wooded acres, under a mile from W&L and downtown Lexington",
+          "5 bd / 5 full contemporary; MLS details list a second kitchen with private entrance",
+          "Full basement; Cave Springs Cave on the property"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 850000,
+        "historical_sale_date": "2025-08-15",
+        "id": "offmarket-75-osage-24450",
+        "in_default": 0,
+        "latitude": 37.801015,
+        "longitude": -79.453806,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=5;half=None;lot_sqft=1350360;best estimate=839489;models=[839489, 833000];coords=(37.801015,-79.453806);last sale 2025-08-15 $850000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/75-Osage-Ln_Lexington_VA_24450_M62009-34774"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Rockbridge-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/75-Osage-Ln_Lexington_VA_24450_M62009-34774"
+          }
+        ],
+        "sqft": 3872,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/75-Osage-Ln_Lexington_VA_24450_M62009-34774",
+        "value_amount": 839489,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          839489,
+          833000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 1980,
+        "zip": "24450"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.864773,
+          37.163547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 53.24,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "565 Sands Rd",
+        "basement": 0,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 6,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2021-05-13 for $660,000 is shown separately and is not a current value.",
+          "Reference values cover the whole farm including the guest house.",
+          "Historical sale 2021-05-13 for $660,000 is old; models range $806,000 to $963,400."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Pearisburg",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/565-Sands-Rd_Pearisburg_VA_24134_M55245-62106",
+        "county": "Giles",
+        "detached_adu": 1,
+        "detached_garage": 1,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "About 53-acre farm with creek frontage on Walkers Creek (creek, not navigable waterfront)",
+          "Main house 6 bd / 4 full plus office; downstairs separate living quarters/in-law suite with its own bedroom, living area and kitchen",
+          "Separate 2 bd / 1 ba guest house; detached 3-car garage; new barn; mostly fenced"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 660000,
+        "historical_sale_date": "2021-05-13",
+        "id": "offmarket-565-sands-24134",
+        "in_default": 0,
+        "latitude": 37.163547,
+        "longitude": -80.864773,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=6;full=4;half=None;lot_sqft=2319134;best estimate=952616;models=[952616, 806000, 963400];coords=(37.163547,-80.864773);last sale 2021-05-13 $660000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/565-Sands-Rd_Pearisburg_VA_24134_M55245-62106"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Giles-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/565-Sands-Rd_Pearisburg_VA_24134_M55245-62106"
+          }
+        ],
+        "sqft": 4480,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/565-Sands-Rd_Pearisburg_VA_24134_M55245-62106",
+        "value_amount": 952616,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          952616,
+          806000,
+          963400
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 2008,
+        "zip": "24134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.690217,
+          37.357938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.66,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "101 Back Forty Loop",
+        "basement": 1,
+        "baths": 5.0,
+        "baths_full": 4,
+        "baths_half": 2,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2022-09-08 for $850,000 is shown separately and is not a current value.",
+          "Kitchenettes only; no full second kitchen documented.",
+          "Not waterfront.",
+          "Historical sale 2022-09-08 for $850,000; models range $931,500 to $1,006,000."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Williamsburg",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/101-Back-Forty-Loop_Williamsburg_VA_23188_M64114-75886",
+        "county": "York",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Skimino Landing Estate, 2.66 wooded acres, east of I-95",
+          "5 bd / 4 full + 2 half, about 5,186 sf; main-level primary plus a second primary suite with kitchenette upstairs",
+          "Full basement suite with mini kitchenette and private bath usable as a guest suite; 3-car attached garage; generator"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 850000,
+        "historical_sale_date": "2022-09-08",
+        "id": "offmarket-101-back-23188",
+        "in_default": 0,
+        "latitude": 37.357938,
+        "longitude": -76.690217,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=4;half=2;lot_sqft=115870;best estimate=995072;models=[995072, 1006000, 931500];coords=(37.357938,-76.690217);last sale 2022-09-08 $850000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/101-Back-Forty-Loop_Williamsburg_VA_23188_M64114-75886"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county York-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/101-Back-Forty-Loop_Williamsburg_VA_23188_M64114-75886"
+          }
+        ],
+        "sqft": 5168,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/101-Back-Forty-Loop_Williamsburg_VA_23188_M64114-75886",
+        "value_amount": 995072,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          995072,
+          1006000,
+          931500
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2008,
+        "zip": "23188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.696167,
+          37.362402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.12,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "405 Skimino Landing Dr",
+        "basement": 0,
+        "baths": 5.0,
+        "baths_full": 4,
+        "baths_half": 2,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2026-01-29 for $1,100,000 is shown separately and is not a current value.",
+          "Purchased 2026-01-29 for $1,100,000, so the owner bought very recently; models ($1,096,900 to $1,130,860) are close to the $1.2M ceiling.",
+          "Conditioned crawlspace; no basement. Not waterfront."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Williamsburg",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/405-Skimino-Landing-Dr_Williamsburg_VA_23188_M55317-91057",
+        "county": "York",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Custom English-cottage-style home on 2.12 acres in Skimino Landing, east of I-95",
+          "5 bd / 4 full + 2 half including two first-floor bedrooms; office and bonus room",
+          "Detached two-car garage converted to a pool/spa room and workshop, plus 2-car attached garage"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 1100000,
+        "historical_sale_date": "2026-01-29",
+        "id": "offmarket-405-skimino-23188",
+        "in_default": 0,
+        "latitude": 37.362402,
+        "longitude": -76.696167,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=4;half=2;lot_sqft=92347;best estimate=1119000;models=[1119000, 1130860, 1096900];coords=(37.362402,-76.696167);last sale 2026-01-29 $1100000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/405-Skimino-Landing-Dr_Williamsburg_VA_23188_M55317-91057"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county York-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/405-Skimino-Landing-Dr_Williamsburg_VA_23188_M55317-91057"
+          }
+        ],
+        "sqft": 4750,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/405-Skimino-Landing-Dr_Williamsburg_VA_23188_M55317-91057",
+        "value_amount": 1119000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          1119000,
+          1130860,
+          1096900
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2001,
+        "zip": "23188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.663491,
+          37.279805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 4.53,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "501 Lakeshead Dr",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 6,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2021-10-28 for $750,000 is shown separately and is not a current value.",
+          "Community water access only; no private frontage or dock.",
+          "Historical sale 2021-10-28 for $750,000; models range $921,200 to $990,664.",
+          "The page shows a later list date (2025-03-13) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Williamsburg",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/501-Lakeshead-Dr_Williamsburg_VA_23185_M64203-11553",
+        "county": "York",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "6 bd / 4 full colonial on 4.53 acres in Queens Lake, east of I-95",
+          "Over 1,500 sf of unfinished basement",
+          "Community marina opening to the York River/Chesapeake Bay and Queens Lake (community amenity, not private frontage)"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 750000,
+        "historical_sale_date": "2021-10-28",
+        "id": "offmarket-501-lakeshead-23185",
+        "in_default": 0,
+        "latitude": 37.279805,
+        "longitude": -76.663491,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=6;full=4;half=None;lot_sqft=197327;best estimate=974000;models=[974000, 990664, 921200];coords=(37.279805,-76.663491);last sale 2021-10-28 $750000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/501-Lakeshead-Dr_Williamsburg_VA_23185_M64203-11553"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county York-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/501-Lakeshead-Dr_Williamsburg_VA_23185_M64203-11553"
+          }
+        ],
+        "sqft": 4668,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/501-Lakeshead-Dr_Williamsburg_VA_23185_M64203-11553",
+        "value_amount": 974000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          974000,
+          990664,
+          921200
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2005,
+        "zip": "23185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.726292,
+          37.36398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.0,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "209 Cliftons Blf",
+        "basement": 0,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2022-06-15 for $851,445 is shown separately and is not a current value.",
+          "Lot is exactly 2.0 acres in the record.",
+          "No basement documented; not waterfront.",
+          "Historical sale 2022-06-15 for $851,445; models range $832,000 to $918,321."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Williamsburg",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/209-Cliftons-Blf_Williamsburg_VA_23188_M62464-14144",
+        "county": "York",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "5 bd / 4 full, 3,654 sf home on a 2.0-acre wooded homesite, east of I-95",
+          "First-level primary suite; both upstairs bedrooms have private baths",
+          "Community lake, trails and pavilion (community amenity)"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 851445,
+        "historical_sale_date": "2022-06-15",
+        "id": "offmarket-209-cliftons-23188",
+        "in_default": 0,
+        "latitude": 37.36398,
+        "longitude": -76.726292,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=4;half=None;lot_sqft=87120;best estimate=843000;models=[843000, 918321, 832000];coords=(37.36398,-76.726292);last sale 2022-06-15 $851445",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/209-Cliftons-Blf_Williamsburg_VA_23188_M62464-14144"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county York-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/209-Cliftons-Blf_Williamsburg_VA_23188_M62464-14144"
+          }
+        ],
+        "sqft": 3564,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/209-Cliftons-Blf_Williamsburg_VA_23188_M62464-14144",
+        "value_amount": 843000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          843000,
+          918321,
+          832000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2021,
+        "zip": "23188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.294271,
+          38.00019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 4.93,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "996 Pelham Dr",
+        "basement": 1,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 7,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2023-06-16 for $620,700 is shown separately and is not a current value.",
+          "Bath count conflict: MLS details and narrative say 4 full + 1 half; the current page summary shows 5 full + 1 half. 4 full is used (still meets the 4-full rule).",
+          "No kitchen documented in the lower-level suite.",
+          "Historical sale 2023-06-16 for $620,700; models range $708,000 to $836,000."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Keswick",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/996-Pelham-Dr_Keswick_VA_22947_M62997-13459",
+        "county": "Fluvanna",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [
+          "Full baths: MLS 4 vs current page summary 5; conservative 4 used"
+        ],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "7 bd brick-front colonial on 4.93 acres in Hidden Hills; record shows 200 waterfront feet on a private creek (creek, not navigable)",
+          "Lower level described as a possible guest/mother-in-law suite with separate entrance, 2 bedrooms, full bath and private laundry",
+          "Fenced yard; trail to the creek"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 620700,
+        "historical_sale_date": "2023-06-16",
+        "id": "offmarket-996-pelham-22947",
+        "in_default": 0,
+        "latitude": 38.00019,
+        "longitude": -78.294271,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=7;full=5;half=1;lot_sqft=214751;best estimate=810749;models=[810749, 708000, 836000];coords=(38.00019,-78.294271);last sale 2023-06-16 $620700",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/996-Pelham-Dr_Keswick_VA_22947_M62997-13459"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Fluvanna-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/996-Pelham-Dr_Keswick_VA_22947_M62997-13459"
+          }
+        ],
+        "sqft": 4496,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/996-Pelham-Dr_Keswick_VA_22947_M62997-13459",
+        "value_amount": 810749,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          810749,
+          708000,
+          836000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 2006,
+        "zip": "22947"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.278932,
+          37.891002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.31,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "27 Redbud Ct",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 6,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2022-01-21 for $560,000 is shown separately and is not a current value.",
+          "River access only; private frontage not established.",
+          "Historical sale 2022-01-21 for $560,000; models range $558,000 to $688,348.",
+          "The page shows a later list date (2024-03-18, $575,000) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Fluvanna",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/27-Redbud-Ct_Fluvanna_VA_22963_M67403-06037",
+        "county": "Fluvanna",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "4,000+ sf contemporary on 2.31 acres in Broken Island, a Rivanna River community (record: Rivanna River, river access)",
+          "6 bd / 4 full (5 above the basement plus a basement bedroom); first-floor primary",
+          "Finished basement with rec area, 6th bedroom and full bath; kitchenette plumbed but not finished"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 560000,
+        "historical_sale_date": "2022-01-21",
+        "id": "offmarket-27-redbud-22963",
+        "in_default": 0,
+        "latitude": 37.891002,
+        "longitude": -78.278932,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=6;full=4;half=None;lot_sqft=100624;best estimate=658300;models=[658300, 688348, 558000];coords=(37.891002,-78.278932);last sale 2022-01-21 $560000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/27-Redbud-Ct_Fluvanna_VA_22963_M67403-06037"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Fluvanna-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/27-Redbud-Ct_Palmyra_VA_22963_M67403-06037"
+          }
+        ],
+        "sqft": 4034,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/27-Redbud-Ct_Fluvanna_VA_22963_M67403-06037",
+        "value_amount": 658300,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          658300,
+          688348,
+          558000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2006,
+        "zip": "22963"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.729604,
+          36.881496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 18.84,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "2731 Hillcrest Farms Rd",
+        "basement": 0,
+        "baths": 5.5,
+        "baths_full": 5,
+        "baths_half": 1,
+        "beds": 6,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2023-12-18 for $800,000 is shown separately and is not a current value.",
+          "Acreage spans two parcels; the house parcel alone is 8.41 acres.",
+          "Pond dock only; not waterfront.",
+          "Historical sale 2023-12-18 for $800,000; models range $652,800 to $842,503.",
+          "The page shows a later list date (2024-09-25) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Big Stone Gap",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/2731-Hillcrest-Farms-Rd_Big-Stone-Gap_VA_24219_M69037-20863",
+        "county": "Wise",
+        "detached_adu": 0,
+        "detached_garage": 1,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "About 8,000 sf, 6 bd / 5 full + 1 half on 8.41 acres plus an adjoining 10.42 acres (18.83 acres total per record)",
+          "Indoor swimming pool, first-level primary suite, library/video room",
+          "Attached garage plus 2-car detached garage, barn, riding ring, pasture fencing, pond with dock and fountain (pond only)"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 800000,
+        "historical_sale_date": "2023-12-18",
+        "id": "offmarket-2731-hillcrest-24219",
+        "in_default": 0,
+        "latitude": 36.881496,
+        "longitude": -82.729604,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=6;full=5;half=1;lot_sqft=820670;best estimate=836000;models=[836000, 652800, 842503];coords=(36.881496,-82.729604);last sale 2023-12-18 $800000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/2731-Hillcrest-Farms-Rd_Big-Stone-Gap_VA_24219_M69037-20863"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Wise-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/2731-Hillcrest-Farms-Rd_Big-Stone-Gap_VA_24219_M69037-20863"
+          }
+        ],
+        "sqft": 7009,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/2731-Hillcrest-Farms-Rd_Big-Stone-Gap_VA_24219_M69037-20863",
+        "value_amount": 836000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          836000,
+          652800,
+          842503
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 1988,
+        "zip": "24219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.460745,
+          37.253488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 5.98,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "1455 Ryan Estates Ln",
+        "basement": 1,
+        "baths": 5.5,
+        "baths_full": 5,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2025-08-04 for $1,192,222 is shown separately and is not a current value.",
+          "Not waterfront (record shows N/A).",
+          "Historical sale 2025-08-04 for $1,192,222, near the ceiling. A 2026-03-25 listing asked $1,250,000 (over budget); it is no longer shown for sale and the outcome is not labeled.",
+          "Models range $792,000 to $979,372."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Bedford",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/1455-Ryan-Estates-Ln_Bedford_VA_24523_M65469-18753",
+        "county": "Bedford",
+        "detached_adu": 0,
+        "detached_garage": 1,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Custom home on 5.98 acres with panoramic Peaks of Otter mountain views",
+          "5 bd / 5 full + 1 half with two primary suites (entry and upper levels)",
+          "Detached 3.5-car garage plus 2-car attached; full walk-out basement with rec room and workroom; whole-house generator"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 1192222,
+        "historical_sale_date": "2025-08-04",
+        "id": "offmarket-1455-ryan-24523",
+        "in_default": 0,
+        "latitude": 37.253488,
+        "longitude": -79.460745,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=5;half=1;lot_sqft=260489;best estimate=978000;models=[978000, 979372, 792000];coords=(37.253488,-79.460745);last sale 2025-08-04 $1192222",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/1455-Ryan-Estates-Ln_Bedford_VA_24523_M65469-18753"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Bedford-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/1455-Ryan-Estates-Ln_Bedford_VA_24523_M65469-18753"
+          }
+        ],
+        "sqft": 4381,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/1455-Ryan-Estates-Ln_Bedford_VA_24523_M65469-18753",
+        "value_amount": 978000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          978000,
+          979372,
+          792000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 1,
+        "waterfront": 0,
+        "year_built": 2014,
+        "zip": "24523"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.908348,
+          37.582663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.462,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "3756 Mill Mount Pl",
+        "basement": 0,
+        "baths": 5.5,
+        "baths_full": 5,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2025-05-19 for $889,000 is shown separately and is not a current value.",
+          "Community lake access only; no private frontage or dock.",
+          "Crawlspace; no basement.",
+          "Historical sale 2025-05-19 for $889,000; models range $883,000 to $977,000.",
+          "The page shows a later list date (2026-01-28, $889,000) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3756-Mill-Mount-Pl_Powhatan_VA_23139_M69589-17134",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "5 bd / 5 full + 1 half on 2.46 acres in Westlake @ Mill Mount, with community lake access (fishing, paddle boarding, electric-motor boating)",
+          "First-floor guest bedroom with full bath; finished third floor with full bath (bonus room/possible 6th bedroom)",
+          "Large screened porch; gourmet kitchen with walk-in pantry"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 889000,
+        "historical_sale_date": "2025-05-19",
+        "id": "offmarket-3756-mill-23139",
+        "in_default": 0,
+        "latitude": 37.582663,
+        "longitude": -77.908348,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=5;half=1;lot_sqft=107245;best estimate=897388;models=[897388, 883000, 977000];coords=(37.582663,-77.908348);last sale 2025-05-19 $889000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3756-Mill-Mount-Pl_Powhatan_VA_23139_M69589-17134"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Powhatan-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/3756-Mill-Mount-Pl_Powhatan_VA_23139_M69589-17134"
+          }
+        ],
+        "sqft": 4205,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3756-Mill-Mount-Pl_Powhatan_VA_23139_M69589-17134",
+        "value_amount": 897388,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          897388,
+          883000,
+          977000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 2024,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.89084,
+          37.615518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 5.578,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "3530 Timberview Rd",
+        "basement": 1,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2023-07-14 for $650,000 is shown separately and is not a current value.",
+          "The 5-bedroom count includes the 2 bedrooms in the attached in-law suite.",
+          "Pond only; not waterfront.",
+          "Historical sale 2023-07-14 for $650,000; models range $754,700 to $759,000.",
+          "The page shows a later list date (2024-08-27) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Powhatan",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/3530-Timberview-Rd_Powhatan_VA_23139_M51160-46913",
+        "county": "Powhatan",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "5.58 acres with in-ground pool and a pond (record lists a dock; pond only)",
+          "Main house 3 bd plus an attached in-law suite with 2 bedrooms, full kitchen, family room, dining area and 2 full baths, connected off the main kitchen",
+          "Unfinished basement; fenced"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 650000,
+        "historical_sale_date": "2023-07-14",
+        "id": "offmarket-3530-timberview-23139",
+        "in_default": 0,
+        "latitude": 37.615518,
+        "longitude": -77.89084,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=4;half=1;lot_sqft=242978;best estimate=758365;models=[758365, 754700, 759000];coords=(37.615518,-77.89084);last sale 2023-07-14 $650000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/3530-Timberview-Rd_Powhatan_VA_23139_M51160-46913"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Powhatan-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/3530-Timberview-Rd_Powhatan_VA_23139_M51160-46913"
+          }
+        ],
+        "sqft": 4025,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/3530-Timberview-Rd_Powhatan_VA_23139_M51160-46913",
+        "value_amount": 758365,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          758365,
+          754700,
+          759000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 1998,
+        "zip": "23139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.008295,
+          36.825523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 4.94,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "880 Lillian Naff Dr",
+        "basement": 0,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 8,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2022-12-02 for $400,000 is shown separately and is not a current value.",
+          "Narrative says previously a multi-family home; current permitted use/occupancy not verified.",
+          "Historical sale 2022-12-02 for $400,000; models range $468,100 to $539,000."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Henry",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/880-Lillian-Naff-Dr_Henry_VA_24102_M60986-16528",
+        "county": "Franklin",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "8 bd / 4 full + 1 half, 6,000+ sf on 4.94 mostly cleared acres",
+          "Three living spaces: main floor 5 bd; upper level 2 bd with kitchenette plumbing; terrace-level apartment with full kitchen and private fenced courtyard",
+          "24kW generator; Philpott Lake about 15 minutes away (not waterfront)"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 400000,
+        "historical_sale_date": "2022-12-02",
+        "id": "offmarket-880-lillian-24102",
+        "in_default": 0,
+        "latitude": 36.825523,
+        "longitude": -80.008295,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=8;full=4;half=1;lot_sqft=215186;best estimate=469700;models=[469700, 468100, 539000];coords=(36.825523,-80.008295);last sale 2022-12-02 $400000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/880-Lillian-Naff-Dr_Henry_VA_24102_M60986-16528"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Franklin-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/880-Lillian-Naff-Dr_Henry_VA_24102_M60986-16528"
+          }
+        ],
+        "sqft": 6070,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/880-Lillian-Naff-Dr_Henry_VA_24102_M60986-16528",
+        "value_amount": 469700,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          469700,
+          468100,
+          539000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 0,
+        "year_built": 1990,
+        "zip": "24102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.863445,
+          36.985772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 5.58,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "135 Whispering Breeze Dr",
+        "basement": 1,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2022-06-15 for $449,500 is shown separately and is not a current value.",
+          "No kitchen documented in the lower level.",
+          "River frontage is not established as navigable.",
+          "Historical sale 2022-06-15 for $449,500; models range $483,900 to $580,420."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Rocky Mount",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/135-Whispering-Breeze-Dr_Rocky-Mount_VA_24151_M59791-28282",
+        "county": "Franklin",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Log home on 5.58 acres with Pigg River frontage (record water class: Waterfront Property; no dock)",
+          "5 bd / 4 full + 1 half; two main-level primary suites; loft office",
+          "Finished lower level described as in-law quarters; workshop"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 449500,
+        "historical_sale_date": "2022-06-15",
+        "id": "offmarket-135-whispering-24151",
+        "in_default": 0,
+        "latitude": 36.985772,
+        "longitude": -79.863445,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=4;half=1;lot_sqft=243065;best estimate=489000;models=[489000, 483900, 580420];coords=(36.985772,-79.863445);last sale 2022-06-15 $449500",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/135-Whispering-Breeze-Dr_Rocky-Mount_VA_24151_M59791-28282"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Franklin-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/135-Whispering-Breeze-Dr_Rocky-Mount_VA_24151_M59791-28282"
+          }
+        ],
+        "sqft": 3914,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/135-Whispering-Breeze-Dr_Rocky-Mount_VA_24151_M59791-28282",
+        "value_amount": 489000,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          489000,
+          483900,
+          580420
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 2001,
+        "zip": "24151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.025079,
+          37.874473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 27.902,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "5370 Broad Street Rd",
+        "basement": 1,
+        "baths": 4.5,
+        "baths_full": 4,
+        "baths_half": 1,
+        "beds": 7,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2024-10-31 for $920,000 is shown separately and is not a current value.",
+          "Historical sale 2024-10-31 for $920,000; models range $882,900 to $1,043,000.",
+          "The page shows a later list date (2025-03-13, $1,100,000) after the last sale; that listing is no longer shown for sale, but its outcome is not labeled expired/withdrawn.",
+          "Not waterfront."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Louisa",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/5370-Broad-Street-Rd_Goochland_VA_23093_M65533-01838",
+        "county": "Goochland",
+        "detached_adu": 0,
+        "detached_garage": 1,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "27.9-acre equestrian estate in western Goochland County (Louisa mailing address)",
+          "7 bd / 4 full + 1 half; main-level primary with ADA wheel-in shower; 1,600+ sf 2-bed walk-out lower-level apartment with an entire second kitchen, separate laundry and private driveway",
+          "Oversized 3-bay detached garage, 5-stall barn with workshop, 9 acres fenced pasture, greenhouse cottage"
+        ],
+        "fenced": 1,
+        "first_seen_at": null,
+        "historical_sale_amount": 920000,
+        "historical_sale_date": "2024-10-31",
+        "id": "offmarket-5370-broad-23093",
+        "in_default": 0,
+        "latitude": 37.874473,
+        "longitude": -78.025079,
+        "meets_must_haves": 1,
+        "multigenerational": 1,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=7;full=4;half=1;lot_sqft=1215411;best estimate=994375;models=[994375, 882900, 1043000];coords=(37.874473,-78.025079);last sale 2024-10-31 $920000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/5370-Broad-Street-Rd_Goochland_VA_23093_M65533-01838"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Goochland-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/5370-Broad-Street-Rd_Louisa_VA_23093_M65533-01838"
+          }
+        ],
+        "sqft": 5795,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/5370-Broad-Street-Rd_Goochland_VA_23093_M65533-01838",
+        "value_amount": 994375,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          994375,
+          882900,
+          1043000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 1,
+        "waterfront": 0,
+        "year_built": 2001,
+        "zip": "23093"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.12058,
+          38.135197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "acres": 2.86,
+        "added_to_pilot_on": "2026-11-13",
+        "address": "30139 Goose Point Ct",
+        "basement": 1,
+        "baths": 4.0,
+        "baths_full": 4,
+        "baths_half": 0,
+        "beds": 5,
+        "caveats": [
+          "Reference estimate observed November 13, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
+          "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
+          "Historical sale 2017-09-13 for $649,000 is shown separately and is not a current value.",
+          "Physical facts come from a 2017 MLS record (old); current condition unknown.",
+          "No dock documented; whether the frontage is on the river or a bay/cove is not established.",
+          "Historical sale 2017-09-13 for $649,000 is old; models range $864,700 to $1,014,000."
+        ],
+        "checked_on": "2026-11-13",
+        "city": "Port Royal",
+        "coordinate_source": "https://homefinder.com/realestateandhomes-detail/30139-Goose-Point-Ct_Port-Royal_VA_22535_M62468-35136",
+        "county": "Caroline",
+        "detached_adu": 0,
+        "detached_garage": 0,
+        "discrepancies": [],
+        "eligibility_status": "confirmed_physical_match",
+        "eligible_for_map": true,
+        "features": [
+          "Waterfront home on 2.86 acres in Portobago Bay with panoramic Rappahannock River views",
+          "5 bd / 4 full; main-level primary with fireplace; two-story great room and office",
+          "Lower level with 400+ bottle wine closet and theater room; in-ground pool with gazebo"
+        ],
+        "fenced": 0,
+        "first_seen_at": null,
+        "historical_sale_amount": 649000,
+        "historical_sale_date": "2017-09-13",
+        "id": "offmarket-30139-goose-22535",
+        "in_default": 0,
+        "latitude": 38.135197,
+        "longitude": -77.12058,
+        "meets_must_haves": 1,
+        "multigenerational": 0,
+        "owner_interest": "Unknown; no outreach",
+        "photo_url": null,
+        "pier_or_dock": 0,
+        "price": null,
+        "property_type": "Off-market pilot",
+        "publish_on_map": true,
+        "sources": [
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Saved __NEXT_DATA__ under /workspace/offmarket-daily-20261113/hf_next/. beds=5;full=4;half=None;lot_sqft=124582;best estimate=976233;models=[976233, 864700, 1014000];coords=(38.135197,-77.12058);last sale 2017-09-13 $649000",
+            "purpose": "PRIMARY exact property: current status, beds, full/half baths, lot, past MLS narrative/details, automated estimates, source coordinates",
+            "url": "https://homefinder.com/realestateandhomes-detail/30139-Goose-Point-Ct_Port-Royal_VA_22535_M62468-35136"
+          },
+          {
+            "checked_on": "2026-11-13",
+            "notes": "Discovery list; physical facts taken from exact property page.",
+            "purpose": "Discovery only (Realtor.com sold-archive filter 5+bd/4+ba/2+ac, county Caroline-County)",
+            "url": "https://www.realtor.com/realestateandhomes-detail/30139-Goose-Point-Ct_Port-Royal_VA_22535_M62468-35136"
+          }
+        ],
+        "sqft": 3350,
+        "state": "VA",
+        "status": "offmarket_pilot",
+        "status_evidence": "Exact Homefinder (Realtor.com-powered) property page fetched 2026-11-13 shows status 'sold' with no active offering; Realtor.com address suggest returns ['recently_sold', 'off_market'] (no for_sale/pending/coming_soon). Not present in 2026-11-13 Realtor.com/Redfin/Zillow listed scan or listings DB (normalized address+ZIP). Owner interest unknown.",
+        "status_label": "Off-market pilot—not listed / owner interest unknown",
+        "url": "https://homefinder.com/realestateandhomes-detail/30139-Goose-Point-Ct_Port-Royal_VA_22535_M62468-35136",
+        "value_amount": 976233,
+        "value_effective_date": null,
+        "value_kind": "Automated Real Estimate reference—not an asking price",
+        "value_models_observed": [
+          976233,
+          864700,
+          1014000
+        ],
+        "value_observed_on": "2026-11-13",
+        "walkout_basement": 0,
+        "waterfront": 1,
+        "year_built": 2003,
+        "zip": "22535"
+      },
+      "type": "Feature"
     }
   ],
-  "generated_at": "2026-11-12T06:20:14-05:00",
-  "generated_label": "Nov 12, 2026, 6:20 AM ET",
+  "generated_at": "2026-11-13T06:28:57-05:00",
+  "generated_label": "Nov 13, 2026, 6:28 AM ET",
   "name": "InnovoGeo home search — VA",
   "type": "FeatureCollection"
 }
