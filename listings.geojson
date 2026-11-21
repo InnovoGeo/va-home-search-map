@@ -110644,10 +110644,10 @@
         "added_to_pilot_on": "2026-11-21",
         "address": "111 Sawick Ct",
         "basement": 0,
-        "baths": 5.5,
-        "baths_full": 5,
+        "baths": 4.5,
+        "baths_full": 4,
         "baths_half": 1,
-        "beds": 6,
+        "beds": 7,
         "caveats": [
           "Reference estimate observed November 21, 2026; model valuation date and provider names are not displayed. Not an appraisal, current asking price, or evidence of willingness to sell.",
           "Physical facts come from the archived MLS record syndicated on the exact property page; not independently corroborated by county assessor, inspection, survey or septic permit. No owner has been contacted.",
@@ -110661,14 +110661,16 @@
         "county": "Spotsylvania",
         "detached_adu": 0,
         "detached_garage": 1,
-        "discrepancies": [],
+        "discrepancies": [
+          "Page summary shows 6 bd / 5 full + 1 half; detail fields show Bedrooms 7, Full Bathrooms 4, 1/2 Bathrooms 1 and the narrative says 7 bedrooms / 4.5 baths; conservative detail counts (7 bd / 4 full + 1 half) used. Still meets 5+ bd / 4+ full."
+        ],
         "eligibility_status": "confirmed_physical_match",
         "eligible_for_map": true,
         "features": [
           "Ranch-style home (1990) on 5.09 acres, no HOA (Spotsylvania County)",
           "Record 7 bd / 4 full + 1 half (narrative: 7 bedrooms, 4.5 baths); attached 3-car garage",
           "Bonus room/in-law space above the garage with its own exterior entry",
-          "6 bd / 5 full + 1 half, about 4,001 sf; built 1990; 5.09 acres per record"
+          "7 bd / 4 full + 1 half, about 4,001 sf; built 1990; 5.09 acres per record"
         ],
         "fenced": 0,
         "first_seen_at": null,
@@ -110847,8 +110849,8 @@
       "type": "Feature"
     }
   ],
-  "generated_at": "2026-11-21T06:29:06-05:00",
-  "generated_label": "Nov 21, 2026, 6:29 AM ET",
+  "generated_at": "2026-11-21T06:31:13-05:00",
+  "generated_label": "Nov 21, 2026, 6:31 AM ET",
   "name": "InnovoGeo home search — VA",
   "type": "FeatureCollection"
 }
