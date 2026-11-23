@@ -117797,7 +117797,9 @@
         "county": "Spotsylvania",
         "detached_adu": 0,
         "detached_garage": 0,
-        "discrepancies": [],
+        "discrepancies": [
+          "Realtor.com discovery permalink slug writes the street as \"Old-Block-House-Ln\"; Realtor.com address suggest/Homefinder use \"8828 Old Block House Rd\". Same M-id (M59076-52419), ZIP, coordinates and sale record; link opens the same property record."
+        ],
         "eligibility_status": "confirmed_physical_match",
         "eligible_for_map": true,
         "features": [
@@ -121994,8 +121996,8 @@
       "type": "Feature"
     }
   ],
-  "generated_at": "2026-11-23T06:24:18-05:00",
-  "generated_label": "Nov 23, 2026, 6:24 AM ET",
+  "generated_at": "2026-11-23T06:26:04-05:00",
+  "generated_label": "Nov 23, 2026, 6:26 AM ET",
   "name": "InnovoGeo home search — VA",
   "type": "FeatureCollection"
 }
